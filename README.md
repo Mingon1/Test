@@ -2,13 +2,7 @@
 <html>
 <head>
 <title>민곤페이지</title>
-<style>
-body {
-      font-famliy : "맑은 고딕" , serif;
-      magin-left:30px;
-      magin-right:30px;
-}
-</style>
+
 </head>
 <body>
 <h3>MingonPage</h3>
