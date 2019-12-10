@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>민곤페이지</title>
+
 
 </head>
 <body>
