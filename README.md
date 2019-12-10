@@ -8,7 +8,7 @@
 <h3>MingonPage</h3>
 <hr>
 <div style="background-color:mistyrose; padding:15px;">
-<img src="https://user-images.githubusercontent.com/57663572/70506740-5edb3c00-1b6e-11ea-9f5a-a36c3cc8fe3e.jpg" width="90%"> 
+<img src="https://user-images.githubusercontent.com/57663572/70506740-5edb3c00-1b6e-11ea-9f5a-a36c3cc8fe3e.jpg" width="30%"
 width="100" height="120"><br>
 강원대학교 미디어공학전공<br>
 전민곤<br>
