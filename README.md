@@ -14,7 +14,7 @@ body {
 <h3>MingonPage</h3>
 <hr>
 <div style="background-color:mistyrose; padding:15px;">
-<img src="C:\Users\MinGon\Desktop\디논설/나.jpg" alt="나"
+<img src="https://user-images.githubusercontent.com/57663572/70506465-b2995580-1b6d-11ea-95ba-6f04b9ab26a7.jpg" 
 width="100" height="120"><br>
 강원대학교 미디어공학전공<br>
 전민곤<br>
