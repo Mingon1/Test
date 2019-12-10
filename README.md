@@ -35,7 +35,6 @@ asas2930@naver.com<br>
 <li>2015년~2018년 충암고등학교 입학, 졸업
 <li>2018년~202~년 강원대학교 입학, 졸업예정
 <li>2020년~ 군입대 예정
-</ul>
 <br><br><br><hr><br><br><br>
 
 
@@ -53,10 +52,8 @@ width="420" height="404"> 저의 관심분야는 영상편집자와 기타입니
 <p><a href="https://youtu.be/zOXf8BKHqes">
 <iframe width="640" height="480" src="https://www.youtube.com/embed/zOXf8BKHqes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><a href="https://github.com/Mingon1/Jeon">전민곤github</a></p>
+<p><a href="https://github.com/Mingon1/Jeon"></a></p>
 
 
-</div>
-</hr>
-</body>
+
 <html>
